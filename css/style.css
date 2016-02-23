@@ -28,12 +28,12 @@ h2 strong{ color:#8a1212; }
 h3 { font-size:17px; line-height:19px; color:#2b2b2b; }
 h4 { font-size:12px; line-height:17px; margin-right: 50px; margin-left: 8px}
 
-h1#logo { font-size:0; line-height:0; width:278px; height:85px; float:left; }
+h1#logo { font-size:0; line-height:0; width:278px; height:85px; float:left}
 h1#logo a{ display:block; height:85px; text-indent: -4000px; background:url(images/logo.png); }
 
 .shell { width:970px; margin:0 auto; }
 
-#top { height:85px; background:url(images/top.gif);}
+#top { height:87px; background:url(images/top.gif);}
 
 #navigation { float:right; white-space:nowrap;}
 #navigation ul{ list-style-type: none; line-height:14px; padding-top:35px; float:left; }
@@ -83,3 +83,4 @@ h3.tab { height:46px; background:url(images/tab.gif) no-repeat 0 0; width:202px;
 
 .profile_photo { border-radius:25px; }
 #marr_photo { float:left; padding-right: 5px; margin-left: 8px }
+#skills { padding-left: 25px;}
